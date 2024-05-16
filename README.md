@@ -1,2 +1,2 @@
 # AmEx-Project
-Team Zeta
+The goal of this project was to devise a system that forecasts uncertainties and errors in the predictions of a multiclass encoder-decoder transformer model. Our approach involved using a dataset and the BERT-Base Banking77 HuggingFace model to analyze the model's internal activations to identify potential patterns indicating uncertainty or high-probability labeling errors. The overarching mission was to enhance predictive accuracy and reliability within the AI applications utilized by American Express, improving overall operational efficiency and customer satisfaction.
